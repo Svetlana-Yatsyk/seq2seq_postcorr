@@ -1,0 +1,1 @@
+Code to train the seq2seq model for the ATR output correction presented at [biblissim-ia-2024 | Intelligence artificielle et la reconnaissance de formes et d'écritures manuscrites]([url](https://biblissim-ia-2024.sciencesconf.org/program?lang=en)).
